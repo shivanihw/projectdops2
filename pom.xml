@@ -4,7 +4,7 @@
   <groupId>mavenbuild2</groupId>
   <artifactId>mavenartifact2</artifactId>
   <packaging>war</packaging>
-  <version>1.0</version>
+  <version>1.0-SNAPSHOT</version>
   <name>mavenartifact2 Maven J2EE14 Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
